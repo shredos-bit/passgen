@@ -1,3 +1,6 @@
+//ignore all the comments
+//they are notes i made for myself whiel learning
+
 #include <chrono>
 #include <exception>
 #include <iostream>
